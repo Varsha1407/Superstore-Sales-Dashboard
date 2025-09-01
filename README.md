@@ -15,7 +15,7 @@ This project analyzes the Superstore dataset to provide executive-level insights
 ## Files in Repo
 - `Superstore_Sales_Dashboard.pbix` → Power BI source file
 - `Superstore_Sales_Dashboard.pdf` → Exported dashboard for quick view
-- `Screenshots/` → PNG images of the dashboard
+- `Superstore_Sales_Dashboard.png` → PNG image of the dashboard
 
 ## How to Use
 1. Clone/download the repo
